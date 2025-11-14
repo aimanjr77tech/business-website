@@ -29,6 +29,8 @@ urlpatterns = [
 
     #Paths del admin
     path('admin/', admin.site.urls),
+
+    path('blog/', include('blog.urls')),
 ]
 
 if settings.DEBUG:
