@@ -1,0 +1,72 @@
+/* custom.css – override de colores para Aurea Inmuebles */
+
+/* Fondo general (por si acaso) */
+body {
+  background: linear-gradient(rgba(13, 27, 42, 0.6), rgba(13, 27, 42, 0.6)), url("../img/fondoblanco.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+/* NAVBAR – azul muy oscuro */
+#mainNav {
+  background-color: rgba(13, 27, 42, 0.96) !important;
+  font-family: 'Raleway';
+}
+
+#mainNav .navbar-brand {
+  color: #3A86FF !important;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link {
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-weight: 800;
+}
+
+#mainNav .navbar-nav .nav-item.active .nav-link {
+  color: #82B1FF !important;
+}
+
+/* CTA – bloque azul medio */
+.cta {
+  background-color: rgba(27, 38, 59, 0.95) !important;
+}
+
+/* FOOTER – azul muy oscuro */
+.footer {
+  background-color: rgba(13, 27, 42, 0.96) !important;
+}
+
+/* Colores de acento */
+.text-primary,
+.bg-primary,
+a.link {
+  color: #3A86FF !important;
+}
+
+a.link:hover {
+  text-decoration: none;
+  color: #82B1FF !important;
+}
+
+/* Botones principales */
+.btn-primary {
+  background-color: #3A86FF !important;
+  border-color: #3A86FF !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background-color: #1B263B !important;
+  border-color: #1B263B !important;
+}
+
+/* Bordes de las listas de horarios */
+.list-hours .list-hours-item {
+  border-bottom: 1px solid rgba(58, 134, 255, 0.45) !important;
+}
+
+.list-hours .list-hours-item.today {
+  color: #3A86FF !important;
+}
