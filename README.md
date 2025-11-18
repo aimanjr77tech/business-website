@@ -107,8 +107,8 @@ ALLOWED_HOSTS=aurea-inmuebles.onrender.com
 
  Usuario admin en producción
 Este proyecto incluye un script para crear automáticamente el usuario admin en Render al hacer deploy.
-
-** Contacto
+```
+## Contacto
  Autor: Aiman Benslaiman
  Email: aimanecom77@gmail.com
  GitHub: https://github.com/aimanjr77tech
