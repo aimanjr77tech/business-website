@@ -11,7 +11,7 @@ https://aurea-inmuebles.onrender.com
 
 ---
 
-## 📸 Capturas
+##  Capturas
 *(Agrega imágenes si quieres)*  
 Ejemplo:
 
@@ -21,7 +21,7 @@ Ejemplo:
 
 ---
 
-## 📌 Características
+##  Características
 ✔ Panel de administración Django  
 ✔ Gestión de servicios, portafolio y contenido dinámico  
 ✔ Blog integrado  
@@ -103,7 +103,7 @@ Copiar código
 DEBUG=False
 SECRET_KEY=tu_clave_secreta
 ALLOWED_HOSTS=aurea-inmuebles.onrender.com
-(Agrega más si es necesario)
+
 
  Usuario admin en producción
 Este proyecto incluye un script para crear automáticamente el usuario admin en Render al hacer deploy.
