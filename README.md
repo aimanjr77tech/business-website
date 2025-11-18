@@ -1,11 +1,11 @@
-# 🏡 Aurea Inmuebles
+#  Aurea Inmuebles
 > Tu nuevo hogar, más cerca de lo que crees.
 
 Aurea Inmuebles es una plataforma web inmobiliaria basada en Django, diseñada para mostrar servicios inmobiliarios, propiedades, blog y contenido corporativo, con un panel de administración completo y un diseño moderno y responsive.
 
 ---
 
-## 🚀 Demo en producción
+##  Demo en producción
 🔗 **Sitio web online:**  
 https://aurea-inmuebles.onrender.com
 
@@ -33,7 +33,7 @@ Ejemplo:
 
 ---
 
-## 🛠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 | Área | Herramientas |
 |------|--------------|
 | Backend | Django, Python |
@@ -44,7 +44,7 @@ Ejemplo:
 
 ---
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 webempresa/
 │
 ├── blog/
@@ -67,7 +67,7 @@ Copiar código
 
 ---
 
-## ⚙️ Instalación en local
+##  Instalación en local
 
 ### 1. Clona el repositorio
 ```bash
@@ -95,7 +95,7 @@ python manage.py createsuperuser
 bash
 Copiar código
 python manage.py runserver
-🧰 Variables de entorno esperadas
+ Variables de entorno esperadas
 Si usas Render u otro servicio similar:
 
 ini
@@ -105,12 +105,12 @@ SECRET_KEY=tu_clave_secreta
 ALLOWED_HOSTS=aurea-inmuebles.onrender.com
 (Agrega más si es necesario)
 
-🔐 Usuario admin en producción
+ Usuario admin en producción
 Este proyecto incluye un script para crear automáticamente el usuario admin en Render al hacer deploy.
 
-📬 Contacto
-👤 Autor: Aiman Benslaiman
-📧 Email: (tu correo aquí)
-🔗 GitHub: https://github.com/aimanjr77tech
-🌐 Portfolio: (tu web personal si quieres)
+** Contacto
+ Autor: Aiman Benslaiman
+ Email: aimanecom77@gmail.com
+ GitHub: https://github.com/aimanjr77tech
+ Portfolio: 
 
