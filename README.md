@@ -188,7 +188,7 @@ Estas imágenes ayudan a visualizar el funcionamiento real de la plataforma.
 
 ---
 
-### 🌐 Interfaz Pública del Sitio Web
+###  Interfaz Pública del Sitio Web
 
 #### ▶ Página de Inicio
 ![Home Page](screenshots/homepage.png)
@@ -204,8 +204,6 @@ Estas imágenes ayudan a visualizar el funcionamiento real de la plataforma.
 
 ---
 
-> 📌 *Nota:* estas imágenes se encuentran en la carpeta `/screenshots` dentro del repositorio.  
-Puedes actualizar las capturas cuando añadas nuevas funcionalidades o mejores visuales.
 
 
 ## Contacto
