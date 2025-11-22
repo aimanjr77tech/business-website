@@ -7,7 +7,7 @@ Permite gestionar servicios, propiedades, páginas de contenido, un blog corpora
 
 ---
 
-## 🎯 Objetivo del proyecto
+##  Objetivo del proyecto
 
 El objetivo del proyecto es construir una **web de negocio realista** para una inmobiliaria, que sirva como ejemplo de:
 
@@ -20,7 +20,7 @@ Es un proyecto ideal para mostrar en un portfolio como ejemplo de **aplicación 
 
 ---
 
-## 🌐 Demo en producción
+##  Demo en producción
 
 Sitio desplegado en Render:
 
@@ -30,7 +30,7 @@ Sitio desplegado en Render:
 
 ---
 
-## ✨ Funcionalidades principales
+##  Funcionalidades principales
 
 ### 1. Home y contenido corporativo
 - Página principal con mensaje de marca, secciones destacadas y enlaces a servicios.
@@ -85,7 +85,7 @@ Sitio desplegado en Render:
 
 ---
 
-## 🧱 Arquitectura y estructura del proyecto
+##  Arquitectura y estructura del proyecto
 
 El proyecto vive dentro del directorio `webempresa/` y se organiza en varias aplicaciones Django, separando responsabilidades:
 
@@ -155,7 +155,7 @@ Frontend: http://127.0.0.1:8000/
 
 Admin: http://127.0.0.1:8000/admin/
 
-🌍 Variables de entorno para producción
+ Variables de entorno para producción
 En un entorno como Render se esperan, al menos, estas variables:
 
 ini
@@ -165,7 +165,7 @@ SECRET_KEY=tu_clave_secreta
 ALLOWED_HOSTS=aurea-inmuebles.onrender.com
 El proyecto también contempla la posibilidad de crear un usuario admin automáticamente en producción al desplegar.
 
-👤 Autor
+ Autor
 Nombre: Aiman Benslaiman
 
 Email: aimanecom77@gmail.com
