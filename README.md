@@ -165,12 +165,47 @@ SECRET_KEY=tu_clave_secreta
 ALLOWED_HOSTS=aurea-inmuebles.onrender.com
 El proyecto también contempla la posibilidad de crear un usuario admin automáticamente en producción al desplegar.
 
- Autor
-Nombre: Aiman Benslaiman
+## Capturas del Proyecto
 
-Email: aimanecom77@gmail.com
+A continuación se muestran algunas capturas del panel de administración de Django y de la interfaz pública del sitio web.  
+Estas imágenes ayudan a visualizar el funcionamiento real de la plataforma.
 
-GitHub: https://github.com/aimanjr77tech
+---
+
+###  Panel de Administración (Django Admin)
+
+#### ▶ Dashboard principal del administrador
+![Dashboard Admin](screenshots/admin-dashboard.png)
+
+#### ▶ Gestión de servicios
+![Admin Servicios](screenshots/admin-services.png)
+
+#### ▶ Gestión de entradas del blog
+![Admin Blog](screenshots/admin-blog.png)
+
+#### ▶ Edición de páginas informativas
+![Admin Pages](screenshots/admin-pages.png)
+
+---
+
+### 🌐 Interfaz Pública del Sitio Web
+
+#### ▶ Página de Inicio
+![Home Page](screenshots/homepage.png)
+
+#### ▶ Página de Servicios
+![Services Page](screenshots/services-page.png)
+
+#### ▶ Blog corporativo
+![Blog Page](screenshots/blog-page.png)
+
+#### ▶ Página de contacto
+![Contact Page](screenshots/contact-page.png)
+
+---
+
+> 📌 *Nota:* estas imágenes se encuentran en la carpeta `/screenshots` dentro del repositorio.  
+Puedes actualizar las capturas cuando añadas nuevas funcionalidades o mejores visuales.
 
 
 ## Contacto
